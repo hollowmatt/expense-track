@@ -1,28 +1,10 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is code from the React.js - A guide for Rails developers article on https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
 
-Things you may want to cover:
+Things I changed
 
-* Ruby version
+* Converted records.js.coffeescript to records.js
 
-* System dependencies
+I'm not a fan of Coffeescript, I will likely convert all of it to JS, and maybe JSX.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
